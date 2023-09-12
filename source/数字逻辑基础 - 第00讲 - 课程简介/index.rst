@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-03-02
+   ..  Created        : 2023-09-12
    ..  Description    : description about 第00讲 - 课程简介
    ..
 .. -----------------------------------------------------------------------------
