@@ -3,19 +3,25 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-11-07
-   ..  Description    : description about 修订 - 05
+   ..  Created        : 2023-10-10
+   ..  Description    : description about 第12讲 - 同步时序(状态机) - 电路的分析
    ..
 .. -----------------------------------------------------------------------------
 
-05
+第12讲 - 同步时序(状态机) - 电路的分析
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG
+
+分析的一般过程
+........................................
 .. image:: 幻灯片2.JPG
 .. image:: 幻灯片3.JPG
 .. image:: 幻灯片4.JPG
 .. image:: 幻灯片5.JPG
+
+常见电路的分析
+........................................
 .. image:: 幻灯片6.JPG
 .. image:: 幻灯片7.JPG
 .. image:: 幻灯片8.JPG
@@ -24,3 +30,8 @@
 .. image:: 幻灯片11.JPG
 .. image:: 幻灯片12.JPG
 .. image:: 幻灯片13.JPG
+.. image:: 幻灯片14.JPG
+.. image:: 幻灯片15.JPG
+.. image:: 幻灯片16.JPG
+.. image:: 幻灯片17.JPG
+.. image:: 幻灯片18.JPG
