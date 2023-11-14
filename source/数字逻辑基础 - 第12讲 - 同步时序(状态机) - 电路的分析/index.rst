@@ -27,11 +27,4 @@
 .. image:: 幻灯片8.JPG
 .. image:: 幻灯片9.JPG
 .. image:: 幻灯片10.JPG
-.. image:: 幻灯片11.JPG
-.. image:: 幻灯片12.JPG
-.. image:: 幻灯片13.JPG
-.. image:: 幻灯片14.JPG
-.. image:: 幻灯片15.JPG
-.. image:: 幻灯片16.JPG
-.. image:: 幻灯片17.JPG
-.. image:: 幻灯片18.JPG
+未完待续...
