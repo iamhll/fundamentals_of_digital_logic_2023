@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-10-10
+   ..  Created        : 2023-11-14
    ..  Description    : description about 第12讲 - 同步时序(状态机) - 电路的分析
    ..
 .. -----------------------------------------------------------------------------
