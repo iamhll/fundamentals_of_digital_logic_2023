@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-10-10
+   ..  Created        : 2023-10-31
    ..  Description    : description about 第08讲 - 触发器 - 逻辑层
    ..
 .. -----------------------------------------------------------------------------

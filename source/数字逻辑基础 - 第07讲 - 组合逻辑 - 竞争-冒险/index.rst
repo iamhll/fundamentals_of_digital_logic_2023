@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-10-10
+   ..  Created        : 2023-10-17
    ..  Description    : description about 第07讲 - 组合逻辑电路 - 竞争—冒险(上)
    ..
 .. -----------------------------------------------------------------------------

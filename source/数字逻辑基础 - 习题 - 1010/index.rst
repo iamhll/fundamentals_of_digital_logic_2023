@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-10-24
+   ..  Created        : 2023-10-17
    ..  Description    : description about 习题 - 1010
    ..
 .. -----------------------------------------------------------------------------
