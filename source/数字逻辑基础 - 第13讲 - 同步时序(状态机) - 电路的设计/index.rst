@@ -47,20 +47,24 @@
 .. image:: 幻灯片25.JPG
 .. image:: 幻灯片26.JPG
 .. image:: 幻灯片27.JPG
-.. image:: 幻灯片28.JPG
-.. image:: 幻灯片29.JPG
 
-基于模16计数器进行设计
-........................................
-.. image:: 幻灯片30.JPG
-.. image:: 幻灯片31.JPG
-.. image:: 幻灯片32.JPG
-.. image:: 幻灯片33.JPG
-.. image:: 幻灯片34.JPG
-.. image:: 幻灯片35.JPG
-.. image:: 幻灯片36.JPG
-.. image:: 幻灯片37.JPG
-.. image:: 幻灯片38.JPG
-.. image:: 幻灯片39.JPG
-.. image:: 幻灯片40.JPG
-.. image:: 幻灯片41.JPG
+未完待续...
+
+..
+   .. image:: 幻灯片28.JPG
+   .. image:: 幻灯片29.JPG
+
+   基于模16计数器进行设计
+   ........................................
+   .. image:: 幻灯片30.JPG
+   .. image:: 幻灯片31.JPG
+   .. image:: 幻灯片32.JPG
+   .. image:: 幻灯片33.JPG
+   .. image:: 幻灯片34.JPG
+   .. image:: 幻灯片35.JPG
+   .. image:: 幻灯片36.JPG
+   .. image:: 幻灯片37.JPG
+   .. image:: 幻灯片38.JPG
+   .. image:: 幻灯片39.JPG
+   .. image:: 幻灯片40.JPG
+   .. image:: 幻灯片41.JPG
