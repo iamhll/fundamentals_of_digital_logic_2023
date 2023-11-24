@@ -47,11 +47,11 @@
 .. image:: 幻灯片25.JPG
 .. image:: 幻灯片26.JPG
 .. image:: 幻灯片27.JPG
+.. image:: 幻灯片28.JPG
 
 未完待续...
 
 ..
-   .. image:: 幻灯片28.JPG
    .. image:: 幻灯片29.JPG
 
    基于模16计数器进行设计
