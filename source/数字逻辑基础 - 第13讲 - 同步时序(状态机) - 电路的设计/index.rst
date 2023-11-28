@@ -36,35 +36,32 @@
 .. image:: 幻灯片17.JPG
 .. image:: 幻灯片18.JPG
 .. image:: 幻灯片19.JPG
+
+状态分配
+........................................
 .. image:: 幻灯片20.JPG
 .. image:: 幻灯片21.JPG
-
-常见电路的设计
-........................................
 .. image:: 幻灯片22.JPG
 .. image:: 幻灯片23.JPG
 .. image:: 幻灯片24.JPG
 .. image:: 幻灯片25.JPG
 .. image:: 幻灯片26.JPG
+
+基于动态卡诺图的分析
+........................................
 .. image:: 幻灯片27.JPG
 .. image:: 幻灯片28.JPG
-
-未完待续...
-
-..
-   .. image:: 幻灯片29.JPG
-
-   基于模16计数器进行设计
-   ........................................
-   .. image:: 幻灯片30.JPG
-   .. image:: 幻灯片31.JPG
-   .. image:: 幻灯片32.JPG
-   .. image:: 幻灯片33.JPG
-   .. image:: 幻灯片34.JPG
-   .. image:: 幻灯片35.JPG
-   .. image:: 幻灯片36.JPG
-   .. image:: 幻灯片37.JPG
-   .. image:: 幻灯片38.JPG
-   .. image:: 幻灯片39.JPG
-   .. image:: 幻灯片40.JPG
-   .. image:: 幻灯片41.JPG
+.. image:: 幻灯片29.JPG
+.. image:: 幻灯片30.JPG
+.. image:: 幻灯片31.JPG
+.. image:: 幻灯片32.JPG
+.. image:: 幻灯片33.JPG
+.. image:: 幻灯片34.JPG
+.. image:: 幻灯片35.JPG
+.. image:: 幻灯片36.JPG
+.. image:: 幻灯片37.JPG
+.. image:: 幻灯片38.JPG
+.. image:: 幻灯片39.JPG
+.. image:: 幻灯片40.JPG
+.. image:: 幻灯片41.JPG
+.. image:: 幻灯片42.JPG
