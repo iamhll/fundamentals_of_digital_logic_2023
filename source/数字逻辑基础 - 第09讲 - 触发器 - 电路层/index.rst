@@ -25,10 +25,10 @@
 .. image:: 幻灯片9.JPG
 .. image:: 幻灯片10.JPG
 .. image:: 幻灯片11.JPG
+.. image:: 幻灯片12.JPG
 
 触发器的触发类型
 ........................................
-.. image:: 幻灯片12.JPG
 .. image:: 幻灯片13.JPG
 .. image:: 幻灯片14.JPG
 .. image:: 幻灯片15.JPG
