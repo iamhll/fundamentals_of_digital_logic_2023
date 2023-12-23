@@ -4,11 +4,11 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2023-12-19
-   ..  Description    : description about 第19讲 - Verilog语言 - 可综合建模
+   ..  Description    : description about 第21讲 - Verilog语言 - 可综合建模
    ..
 .. -----------------------------------------------------------------------------
 
-第19讲 - Verilog语言 - 可综合建模
+第21讲 - Verilog语言 - 可综合建模
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG

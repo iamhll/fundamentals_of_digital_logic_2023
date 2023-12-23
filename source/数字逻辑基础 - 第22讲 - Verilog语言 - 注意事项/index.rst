@@ -4,11 +4,11 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2023-12-19
-   ..  Description    : description about 第19讲 - Verilog语言 - 注意事项
+   ..  Description    : description about 第22讲 - Verilog语言 - 注意事项
    ..
 .. -----------------------------------------------------------------------------
 
-第19讲 - Verilog语言 - 注意事项
+第22讲 - Verilog语言 - 注意事项
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG
